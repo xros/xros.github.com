@@ -1,5 +1,7 @@
-language: ruby
-rvm:
-  - 1.9.3
-  - 1.9.2
-script: bundle exec rake install; bundle exec rake generate
+#language: ruby
+#rvm:
+  #- 1.9.3
+  #- 1.9.2
+#script: bundle exec rake install; bundle exec rake generate
+#
+# now I am going to use Python :)
